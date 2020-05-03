@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Welcome to my journey of learning Swift and SwiftUI
 
 
